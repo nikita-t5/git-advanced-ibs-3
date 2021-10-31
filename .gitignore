@@ -1,0 +1,6 @@
+/out/
+/target/
+/shelf/
+.idea/
+*.iml
+*.json
